@@ -1,0 +1,21 @@
+
+@relation market_transactions
+
+@attribute M {yes}
+@attribute O {yes}
+@attribute N {yes}
+@attribute K {yes}
+@attribute E {yes}
+@attribute Y {yes}
+@attribute D {yes}
+@attribute A {yes}
+@attribute U {yes}
+@attribute C {yes}
+@attribute I {yes}
+
+@data
+yes,yes,yes,yes,yes,yes,?,?,?, ?,?
+?,yes,yes,yes,yes,yes,yes,?,?,?,?
+yes,?,?,yes,yes,?,?,yes,?,?,?
+yes,?,?,yes,?,yes,?,?,yes,yes,?
+?,yes,?,yes,yes,?,?,?, ?,yes,yes
